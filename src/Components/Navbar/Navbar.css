@@ -1,0 +1,24 @@
+.right{
+    float:right;
+}
+.black{
+    background-color:black !important;
+}
+.justify-content-center{
+    justify-content: center;
+    margin-top:30px;
+    margin-bottom: 30px;
+
+}
+.white{
+    color:white !important;
+}
+  .board{
+      background-color:black
+  }
+
+  .blackwords{
+      font-weight: bold;
+      color:black;
+
+  }

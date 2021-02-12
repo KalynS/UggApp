@@ -1,0 +1,20 @@
+.topLeft{
+    float: left;
+    width:940px;
+    margin-bottom:80px;
+}
+.topRight{
+    float:right;
+    margin-bottom:80px;
+    margin-left:20px;
+}
+.bottomLeft{
+    float:left;
+    margin-bottom:80px;
+    margin-right:20px;
+}
+.bottomRight{
+    float:right;
+    margin-bottom:80px;
+    margin-left:20px;
+}
